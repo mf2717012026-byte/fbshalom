@@ -1,2 +1,0 @@
-# fbshalom
-Proyecto de practica
